@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define MAX 20
+#define MAX 30
 
 typedef struct {
     char titulo[100];
